@@ -1,0 +1,9 @@
+﻿@EFCore6DBFirstWebAPIDemo_HostAddress = https://localhost:7131
+
+GET {{EFCore6DBFirstWebAPIDemo_HostAddress}}/api/courses
+
+###
+
+GET {{EFCore6DBFirstWebAPIDemo_HostAddress}}/weatherforecast
+
+###
